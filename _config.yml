@@ -1,3 +1,5 @@
 theme: jekyll-theme-minimal
-title: Workshop on Information Systems
-description: One-day Workshop on Information Systems
+title: CUSO Workshop on Frontiers in Information Systems
+description: CUSO workshop held at the HEG Arc (Neuchâtel) on the 19th of May 2026. The focus is placed on the boundaries of IS research, conducting reviews (i.e. review papers) and bibliometric analyzes to grasp the phenomenon as a whole.
+github:
+  is_project_page: false
