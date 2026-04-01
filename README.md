@@ -1,14 +1,17 @@
-# CUSO Workshop on Information Systems (19th of May 2026)
+# Information Systems Frontiers - CUSO Workshop (19th of May 2026) 
+
 
 ## Overview
 
-Since its emergence, research in **Information Systems** (IS) has been marked by a historical questioning of its recognition as a scientific discipline (Baskerville & Myers, 2002). This quest for recognition has led it to explore its fundamental nature and influences (Jeyaraj & Zadeh, 2020; Sarker et al., 2019), as well as to define or redefine its boundaries (Pratt et al., 2012; Tarafdar & Davison, 2018). This workshop will explore the relationships of IS with connected disciplines such as Human-Computer Interaction (Zhang & Li, 2004) and present the diversity of genres. Relevant methods such as bibliometrics (Baudet et al., 2023; Walsh & Renaud, 2017; Walsh et al., 2022; Walsh & Rowe, 2023) and AI-based tools (Wagner et al., 2021) will be presented and used in practice. The perspectives of researchers at various stages of their careers will be presented. The overarching goal of the workshop is to support junior researchers (e.g., PhD students) in IS an connected fields by providing practical guidance and providing tools applicable to their own research.
+Since its emergence, research in **Information Systems** (IS) has been marked by a historical questioning of its recognition as a scientific discipline (Baskerville & Myers, 2002). This quest for recognition has led it to explore its fundamental nature and influences (Jeyaraj & Zadeh, 2020; Sarker et al., 2019), as well as to define or redefine its boundaries (Pratt et al., 2012; Tarafdar & Davison, 2018). This workshop will explore the relationships of IS with connected disciplines such as Human-Computer Interaction (Zhang & Li, 2004) and present the diversity of genres. Relevant methods such as bibliometrics (Baudet et al., 2023; Walsh & Renaud, 2017; Walsh et al., 2022; Walsh & Rowe, 2023) and AI-based tools (Wagner et al., 2021) will be presented and used in practice. Perspectives from researchers at different career stages will be shared. The primary aim of this workshop is to support junior researchers in IS and related fields by offering practical guidance and tools they can apply directly to their own work.
+
 
 ## Practical Information
 
-Date: 19th of May, 2026 9AM to 5PM
+**Date:** 19th of May, 2026 9AM to 5PM
 
-Location: Haute école de gestion Arc, 21 Espace de l'Europe, 2000 Neuchâtel
+**Location:** Haute école de gestion Arc, 21 Espace de l'Europe, 2000 Neuchâtel. The room details will be included in the confirmation email.
+
 
 ## Program
 
@@ -22,12 +25,12 @@ Location: Haute école de gestion Arc, 21 Espace de l'Europe, 2000 Neuchâtel
 * [Alexandre Renaud](https://www.em-normandie.com/annuaire-des-professeurs/alexandre-renaud), Associate Professor at the EM Normandie (France) will present an overview of bibliometric methods and their use in IS and management research. Practical guidance will be provided.
 
 **Tools and Techniques [11:30 - 12:30]**
-* [TBD] Presentation of tools and techniques to support the literature review process.
+* [TBD] Overview of tools and techniques to support the literature review process.
 
 **Lunch [12:30 - 13:30]**
 
 **Understanding AI to Support Literature Reviews and an Introduction of an Ecosystem of Tools for IS Research [14:00 - 16:00]**
-* [Isabelle Walsh](https://www.skema.edu/en/faculty-and-research/professors/isabelle-walsh), Emeritus Professor at SKEMA Business School (France) will present its recent research on AI and literature reviews as well as provide a hands-on activity on AI to conduct a literature review in IS.
+* [Isabelle Walsh](https://www.skema.edu/en/faculty-and-research/professors/isabelle-walsh), Emeritus Professor at SKEMA Business School (France) will present its recent research on AI and literature reviews as well as provide a hands-on activity to conduct a literature review with AI in IS.
 
 **Group Discussions and Concluding Remarks [16:00 - 17:00]**
 * Group discussion on their own research topics as well as discussion with speakers and organizers. The goal is to provide practical advices for junior researchers.
@@ -39,9 +42,10 @@ Students, researchers, and professors affiliated with CUSO universities (i.e., t
 
 The deadline for registration is the **Friday 8th of May 2026**.
 
-Non-CUSO members fee: 100CHF
+Non-CUSO members fee: 100CHF. A request of interest should be made to Maximiliano Jeanneret Medina (maximiliano.jeanneret@he-arc.ch).
 
 Cancellation Policy: Cancellations must be communicated to the organizers at least one week before the workshop. Failure to do so will result in accommodation costs being charged without reimbursement.
+
 
 ## Speakers
 * Associate Prof. [Alexandre Renaud](https://www.em-normandie.com/annuaire-des-professeurs/alexandre-renaud), EM Normandie (France)
