@@ -12,6 +12,7 @@ Since its emergence, research in **Information Systems** (IS) has been marked by
 
 **Location:** Haute école de gestion Arc, 21 Espace de l'Europe, 2000 Neuchâtel. Open in [Google Maps](https://www.google.ch/maps/place/Haute+%C3%A9cole+de+gestion+Arc+(HEG+Arc)/@46.9983213,6.9403444,19z/data=!4m6!3m5!1s0x478e0a220da1e9d9:0x6d6d3754dae8a378!8m2!3d46.9983213!4d6.9408856!16s%2Fg%2F1tdw2ckf?entry=ttu&g_ep=EgoyMDI2MDQwMS4wIKXMDSoASAFQAw%3D%3D). The room details will be included in the confirmation email.
 
+**[Registration Form](https://forms.cloud.microsoft/Pages/ResponsePage.aspx?id=fX07WxnhBU2QIvd18uSOllVl6etMqu1KiYrmGgG4qltUOFFBNDE3OVQ1WlRXNTMzMkhZMDFHUU1DTS4u)**
 
 ## Program
 
@@ -40,11 +41,13 @@ Since its emergence, research in **Information Systems** (IS) has been marked by
 
 ## Registration
 
-Students, researchers, and professors affiliated with CUSO universities (i.e., the Universities of Fribourg, Geneva, Lausanne, Neuchâtel and Bern, the Geneva Graduate Intitute (IHEID), the HES-SO and the ISDC) are eligible to apply. Non-CUSO members are also welcome to participate as external participants. Priority will be given to students, while PostDocs and senior researchers will be selected based on their relevance to the workshop. Successful applicants will be notified via email. Accommodation arrangements (e.g., lunch), including for external participants, will be managed by the organizers. 
+**[Registration Form](https://forms.cloud.microsoft/Pages/ResponsePage.aspx?id=fX07WxnhBU2QIvd18uSOllVl6etMqu1KiYrmGgG4qltUOFFBNDE3OVQ1WlRXNTMzMkhZMDFHUU1DTS4u)**
 
-The deadline for registration is the **Friday 8th of May 2026**.
+Students, researchers, and professors affiliated with CUSO universities (i.e., the Universities of Fribourg, Geneva, Lausanne, Neuchâtel and Bern, the Geneva Graduate Intitute (IHEID), the HES-SO and the ISDC) are eligible to apply for free. Non-CUSO members are also welcome to participate as external participants. Priority will be given to students, while PostDocs and senior researchers will be selected based on their relevance to the workshop. Successful applicants will be notified via email. Accommodation arrangements (e.g., lunch), including for external participants, will be managed by the organizers.
 
-**Non-CUSO Members Fee:** 100CHF. A request of interest should be made to Maximiliano Jeanneret Medina (maximiliano.jeanneret@he-arc.ch).
+The deadline for registration is the **Tuesday 12th of May 2026**.
+
+**Non-CUSO Members Fee:** 100CHF.
 
 **Cancellation Policy:** Cancellations must be communicated to the organizers at least one week before the workshop. Failure to do so will result in accommodation costs being charged without reimbursement.
 
